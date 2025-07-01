@@ -6,6 +6,8 @@
 *   Ömer Faruk San ([GitHub Profile Link](https://github.com/oemersan))
 *   Mustafa Kerem Bulut ([GitHub Profile Link](https://github.com/mustafakerembulut))
 ---
+You can access the fully working jupyter notebook without errors from here 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cK0tppMQ3mIs1SUE71VJ0l4STgkIUolD?usp=sharing)
 
 ## 1. Project Overview
 
